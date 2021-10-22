@@ -1,6 +1,6 @@
 # pokedex
 
-A new Flutter project.
+This is a fun project built using flutter. A pokedex for the 151 Generation 1 pokemons from the Kanto region.
 
 ## Getting Started
 
